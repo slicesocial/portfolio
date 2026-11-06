@@ -1,6 +1,7 @@
 media:
   input: media
   output: /media
+  extensions: [jpg, jpeg, png, webp, gif, mp4, mov, webm]
 
 content:
   - name: clients
@@ -26,7 +27,7 @@ content:
             type: object
             list: true
             fields:
-              - { name: video, label: Video file (.mp4), type: file }
+              - { name: video, label: Video file (.mp4), type: file, options: { extensions: [mp4, mov, webm] } }
               - { name: poster, label: Cover image (optional), type: image }
               - { name: title, label: Title (optional), type: string }
 
