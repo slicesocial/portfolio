@@ -1,0 +1,85 @@
+{
+  "clients": [
+    {
+      "name": "slice social",
+      "category": "my own page",
+      "instagram": "https://www.instagram.com/slicesocial.co/",
+      "what_i_did": "My own series on how a fine art background shapes the way I edit. Talking to camera, with collage, scanned paper and handmade marks carrying the ideas.",
+      "process": "I film, write and edit everything myself. Each episode starts from one observation, then the edit tests it.",
+      "results": "[Add reach, saves or comments once the series has been live a while]",
+      "feedback": "",
+      "videos": [
+        {
+          "video": "/media/how-to-see.mp4",
+          "poster": "/media/how-to-see.jpg",
+          "title": "How to see, ep. 1"
+        },
+        {
+          "video": "/media/communication.mp4",
+          "poster": "/media/communication.jpg",
+          "title": "Is social media changing the way we communicate?"
+        }
+      ]
+    },
+    {
+      "name": "francis",
+      "category": "culture",
+      "instagram": "https://www.instagram.com/francisshad/",
+      "what_i_did": "[What you edit for Francis: format, length, the look you built together]",
+      "process": "[How many videos a month, how you work together]",
+      "results": "[Growth, views or a win worth naming]",
+      "feedback": "[A short quote from Francis]",
+      "videos": []
+    },
+    {
+      "name": "isabel",
+      "category": "[her niche]",
+      "instagram": "",
+      "what_i_did": "[What you edit for Isabel]",
+      "process": "[Videos a month and how you work together]",
+      "results": "[Add once you have them]",
+      "feedback": "",
+      "videos": []
+    },
+    {
+      "name": "sculpted by aimee",
+      "category": "brand",
+      "instagram": "",
+      "what_i_did": "Directed, shot and edited brand content, including the Bestie Check series and behind-the-scenes films.",
+      "process": "[How the shoots ran, and your role]",
+      "results": "[Add any numbers or outcomes]",
+      "feedback": "",
+      "videos": []
+    },
+    {
+      "name": "westfield stratford",
+      "category": "retail",
+      "instagram": "",
+      "what_i_did": "Directed, shot and edited trend-led content for Westfield Stratford, featuring Zara, Pull&Bear, New Balance and Flannels, with creator Maiya.",
+      "process": "[Agency set-up, how many pieces, turnaround]",
+      "results": "[Add any numbers or outcomes]",
+      "feedback": "",
+      "videos": []
+    },
+    {
+      "name": "hermione",
+      "category": "fashion",
+      "instagram": "",
+      "what_i_did": "Directed, shot and edited content including the Reiss leather edit.",
+      "process": "[How filming days work, and what you handle]",
+      "results": "[Add any numbers or outcomes]",
+      "feedback": "",
+      "videos": []
+    },
+    {
+      "name": "life of ease",
+      "category": "editorial",
+      "instagram": "",
+      "what_i_did": "[Editorial brand content: what you made]",
+      "process": "[Your role]",
+      "results": "[Add any numbers or outcomes]",
+      "feedback": "",
+      "videos": []
+    }
+  ]
+}
